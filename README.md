@@ -30,7 +30,7 @@ Most of the work below is live: open it, click around, read the code.
 
 ### Tools I use
 
-| | |
+| Area | Tools |
 | :-- | :-- |
 | **Languages** | TypeScript · JavaScript · Python · GDScript · HTML · CSS |
 | **Frontend** | React · Next.js · Vite · Tailwind CSS · Framer Motion · GSAP |

@@ -15,14 +15,14 @@ Most of the work below is live: open it, click around, read the code.
 
 ### Selected work
 
-| Project | What it is | Links |
-| :-- | :-- | :-- |
-| **Veerbhumi** (वीरभूमि)<br><sub>Godot 4 · GDScript</sub> | An open-world game prototype set in Nepal, with a real Inaruwa–Itahari corridor built from OpenStreetMap data. Playable in the browser. | [Play](https://nabinbabuuranw.github.io/veerbhumi/) · [Code](https://github.com/nabinbabuuranw/veerbhumi) |
-| **Basta** (बस्ता)<br><sub>React · TypeScript · Cloudflare Workers · D1</sub> | Fees, roll call, notices and report cards for small private schools, with separate logins for the office, teachers and parents. | [Live](https://basta-school.sites.tab.bot/) · [Code](https://github.com/nabinbabuuranw/basta) |
-| **Chukta** (चुक्ता)<br><sub>React · TypeScript · Cloudflare Workers</sub> | VAT-ready bills and receivables for Nepali small businesses. | [Live](https://chukta.sites.tab.bot/) · [Code](https://github.com/nabinbabuuranw/chukta) |
-| **Kotha** (कोठा)<br><sub>React · TypeScript · Cloudflare Workers</sub> | Rooms and flats to rent in the Kathmandu Valley, plus a rent book for landlords and tenants. | [Live](https://kotha-ktm.sites.tab.bot/) · [Code](https://github.com/nabinbabuuranw/kotha) |
-| **NEXA**<br><sub>Web platform · in progress</sub> | The website for NEXA, my music distribution startup for independent artists. Pre-launch. | [Live](https://nexa.sites.tab.bot/) |
-| **AAMA Collection**<br><sub>Online store</sub> | An online shop for a saree and kurtha store in Inaruwa, with its own admin panel. | [Live](https://aama-collection.sites.tab.bot/) |
+| Project | What it is |
+| :-- | :-- |
+| **Veerbhumi** (वीरभूमि)<br><sub>Godot 4 · GDScript</sub><br>[Play](https://nabinbabuuranw.github.io/veerbhumi/) · [Code](https://github.com/nabinbabuuranw/veerbhumi) | An open-world game prototype set in Nepal, with a real Inaruwa–Itahari corridor built from OpenStreetMap data. Playable in the browser. |
+| **Basta** (बस्ता)<br><sub>React · TypeScript · Cloudflare Workers · D1</sub><br>[Live](https://basta-school.sites.tab.bot/) · [Code](https://github.com/nabinbabuuranw/basta) | Fees, roll call, notices and report cards for small private schools, with separate logins for the office, teachers and parents. |
+| **Chukta** (चुक्ता)<br><sub>React · TypeScript · Cloudflare Workers</sub><br>[Live](https://chukta.sites.tab.bot/) · [Code](https://github.com/nabinbabuuranw/chukta) | VAT-ready bills and receivables for Nepali small businesses. |
+| **Kotha** (कोठा)<br><sub>React · TypeScript · Cloudflare Workers</sub><br>[Live](https://kotha-ktm.sites.tab.bot/) · [Code](https://github.com/nabinbabuuranw/kotha) | Rooms and flats to rent in the Kathmandu Valley, plus a rent book for landlords and tenants. |
+| **NEXA**<br><sub>Web platform · in progress</sub><br>[Live](https://nexa.sites.tab.bot/) | The website for NEXA, my music distribution startup for independent artists. Pre-launch. |
+| **AAMA Collection**<br><sub>Online store</sub><br>[Live](https://aama-collection.sites.tab.bot/) | An online shop for a saree and kurtha store in Inaruwa, with its own admin panel. |
 
 <sub>Basta, Chukta and Kotha are part of a series of small platforms I'm building one after another; the first was [Palo](https://palo.sites.tab.bot/), appointment booking for clinics and salons.</sub>
 
